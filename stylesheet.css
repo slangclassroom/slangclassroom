@@ -1,0 +1,118 @@
+
+    #nav {
+        background: #70B1E0;  
+        overflow: auto; 
+        border-radius: 10px;
+        }
+    #nav p {
+        float: right;
+        padding: 15px;
+        background: #C9DEE5;
+        margin-right: 15px;
+        border-radius: 10px;
+        }
+    #nav h1 {
+        float: left;
+        }   
+
+    #nav p:hover {
+        background: #C9DEE5;
+        }
+    body {
+  background-color: #C9DEE5;
+     }
+    p { 
+  font-family: Tahoma, Verdana, sans-serif;
+  color: #70B1E0;
+     }
+
+    h1 {
+  font-family: Tahoma, Verdana, sans-serif;
+  color: #4C8EC4;
+  margin: 0px;
+  margin-top: 20px;
+  margin-left: 50px;
+
+      }
+    h5 {
+  font-family: Tahoma, Verdana, sans-serif;
+  color: #C9DEE5; 
+  margin-right: 0px 
+
+      }
+    h4 {
+  font-family: Tahoma, Verdana, sans-serif;
+  color: #70B1E0; 
+  margin-right: 0px      
+      }
+    h3 {
+  float: right;
+  font-family: Tahoma, Verdana, sans-serif;
+  color: #70B1E0;  
+  padding: 0px;    
+  margin: 0px;
+  margin-bottom: 10px;
+      }
+    a:link {
+  color:#70B1E0;
+  font-family: Tahoma, Verdana, sans-serif;
+      }
+    a:visited {
+  color: #70B1E0;
+  font-family: Tahoma, Verdana, sans-serif;
+      }
+
+.textCont {
+  display: flex;
+  background-color: none;
+  justify-content: space-between;
+}
+
+.textCont div {
+  background-color: none;
+  margin: 10px;
+  margin-top: 0px;
+  padding: 20px;
+  font-size: 30px;
+}
+
+.nextPageCont {
+  display: flex;
+  background-color: none;
+  justify-content: space-between;
+  border-radius: 10px;
+  margin-top: -100px;
+  margin-left: 580px;
+  margin-right: 580px;
+}
+
+.nextPageCont div {
+  background-color: none;
+  margin-top: 30px;
+  margin-bottom: 30px;
+  margin-right: 55px;
+  margin-left: -20px;
+
+  padding: 10px;
+  font-size: 30px;
+  float: ;
+
+.styled {
+  border: 0;
+  line-height: 2.5;
+  padding: 0 20px;
+  font-size: 1rem;
+  font-family: Tahoma, Verdana, sans-serif;
+  text-align: center;
+  color: #C9DEE5;
+  border-radius: 10px;
+  background-color: #70B1E0;
+
+}
+
+.styled:hover {
+  background-color: #4C8EC4;
+}
+
+}
+
